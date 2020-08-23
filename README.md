@@ -17,7 +17,7 @@ Language used for scripting: JavaScript
 
 ___
 
-Notice: This document may contain sensitive information and imagery that belong to NYPD and/or NYPD Cadet Corps Unit. If you're not an authorized user kindly refrain from using/extracting/sharing such information or imagery.
+Notice: These documents and files may contain sensitive information and imagery that belong to NYPD and/or NYPD Cadet Corps Unit. If you're not an authorized user kindly refrain from using/extracting/sharing such information or imagery.
 
 ___
 

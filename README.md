@@ -1,6 +1,13 @@
 # NYPDCadetCorpsSchedule
-Autofill-enabled Monthly Schedule Template (PDF) - Made for NYPD Cadet Corps
+
+[Download Here](https://github.com/DoctorHammer/NYPDCadetCorpsSchedule/raw/13.01/Cadet%20Corps%20Monthly%20Schedule%20Template.pdf)
+
+
+Autofill-enabled Monthly Schedule Template (PDF) - For NYPD Cadet Corps
+
+
 ___
+
 1. Auto fills days of month when user selects the "First Day of Month" and "Month Length"
 2. Auto calculates hours (subtracting unpaid meal hour) from given tour hours (in 24 Hr format)
 3. Auto calculates Total Monthly Hours
@@ -21,5 +28,5 @@ Notice: These documents and files may contain sensitive information and imagery 
 
 ___
 
-Repo made for personal use
+Made for personal use
 

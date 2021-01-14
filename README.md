@@ -1,6 +1,6 @@
 # NYPDCadetCorpsSchedule
 
-# [Download Here](https://github.com/DoctorHammer/NYPDCadetCorpsSchedule/raw/13.01/Cadet%20Corps%20Monthly%20Schedule%20Template.pdf)
+# [Download Here](https://github.com/DoctorHammer/NYPDCadetCorpsSchedule/raw/master/Schedule%20Template%20v%2013.01_Release.pdf)
 
 
 Autofill-enabled Monthly Schedule Template (PDF) - For NYPD Cadet Corps

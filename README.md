@@ -1,4 +1,4 @@
-# NYPDCadetCorpsSchedule
+# NYPD Cadet Corps Schedule
 
 # [Download Here](https://github.com/DoctorHammer/NYPDCadetCorpsSchedule/raw/master/Schedule%20Template%20v%2013.01_Release.pdf)
 
@@ -29,4 +29,6 @@ Notice: These documents and files may contain sensitive information and imagery 
 ___
 
 Made for personal use
+
+#NYPD Cadet Corps # NYPD Cadet Corps Monthly Schedule PDF # NYPD Cadet Corps Schedule Template
 
